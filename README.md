@@ -20,12 +20,19 @@ The tool helps users analyze free-form text and receive:
 ## 📂 Folder Structure
 MentalHealth Detection/
 │
+
 ├── app.py # Main Gradio application
+
 ├── FinalMentalHealthModel_DistilBERT/ # Fine-tuned model for disorder classification
+
 ├── FinalMentalHealthModel_RootCause/ # Fine-tuned model for root cause classification
+
 ├── label_encoder_root.pkl # Pickle file for root cause label encoding
+
 ├── lime_explanation.html # LIME-generated explanation (auto-saved)
+
 ├── screenshots/ # Folder to store app demo screenshots
+
 └── .gitignore
 
 ---
