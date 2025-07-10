@@ -95,42 +95,42 @@ http://127.0.0.1:7860
 ## 📁 LIME Explanation
 Once a post is analyzed:
 
--> LIME explanation will be shown inline
+- LIME explanation will be shown inline
 
--> An HTML file (lime_explanation.html) will be created and available for download
+- An HTML file (lime_explanation.html) will be created and available for download
 
--> You can open the file in any browser for a detailed token-level interpretation
+- You can open the file in any browser for a detailed token-level interpretation
 
 ---
 
 ## 🔍 Model Details
 # 🧠 Model 1 – Disorder Detection
--> Fine-tuned DistilBERT model for classifying posts into mental disorders.
+- Fine-tuned DistilBERT model for classifying posts into mental disorders.
 
--> Trained on cleaned Reddit mental health text.
+- Trained on cleaned Reddit mental health text.
 
 # 🔍 Model 2 – Root Cause Detection
--> Second DistilBERT model fine-tuned to identify the underlying cause.
+- Second DistilBERT model fine-tuned to identify the underlying cause.
 
--> Uses label encoding and decoding via label_encoder_root.pkl.
+- Uses label encoding and decoding via label_encoder_root.pkl.
 
 # ✨ Explainability (LIME)
--> Uses LimeTextExplainer from the lime package
+- Uses LimeTextExplainer from the lime package
 
--> Provides a local explanation showing top 5 contributing words per post
+- Provides a local explanation showing top 5 contributing words per post
 
 ---
 
 ## ✍️ Contributing
 This project was developed as part of an academic project. Contributions are welcome! You can help by:
 
-**.** Expanding the dataset
+- Expanding the dataset
 
-**.** Improving model performance
+- Improving model performance
 
-**.** Exploring deployment options
+- Exploring deployment options
 
-**.** Enhancing the UI or explanation features
+- Enhancing the UI or explanation features
 
 ---
 
@@ -141,6 +141,6 @@ This project was developed as part of an academic project. Contributions are wel
 ---
 
 ## 👨‍🎓 Author
-**.** Emmanuel Mugambi -> mugambiriungu1@gmail.com
+- Emmanuel Mugambi -> mugambiriungu1@gmail.com
 
 ---
