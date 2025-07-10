@@ -97,10 +97,12 @@ Once a post is analyzed:
 ## 🔍 Model Details
 # 🧠 Model 1 – Disorder Detection
 -> Fine-tuned DistilBERT model for classifying posts into mental disorders.
+
 -> Trained on cleaned Reddit mental health text.
 
 # 🔍 Model 2 – Root Cause Detection
 -> Second DistilBERT model fine-tuned to identify the underlying cause.
+
 -> Uses label encoding and decoding via label_encoder_root.pkl.
 
 # ✨ Explainability (LIME)
