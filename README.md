@@ -78,6 +78,7 @@ source venv/bin/activate  # For Windows use: venv\Scripts\activate
 # Install dependencies
 pip install -r requirements.txt
 ```
+
 ---
 
 ## ▶️ Usage
@@ -87,6 +88,7 @@ python app.py
 ```
 Open your browser and navigate to:
 http://127.0.0.1:7860
+
 
 ---
 
