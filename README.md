@@ -135,7 +135,7 @@ This project was developed as part of an academic project. Contributions are wel
 ---
 
 ## 📝 License
--> MIT License
+- MIT License
 **.** This project is for academic and demonstration purposes only. Commercial use is not allowed without explicit permission. If you'd like to reuse or extend it, please contact the author or credit accordingly.
 
 ---
