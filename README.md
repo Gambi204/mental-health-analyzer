@@ -75,7 +75,7 @@ Download the entire project directly (including the trained models and all neces
 > - Open a terminal in the extracted directory.
 > - Follow the setup instructions below (starting with creating a virtual environment and installing dependencies).
 
-⚠️ **Important:** Ensure your extracted folder contains the structure as mentioned shown above at the README:
+⚠️ **Important:** Ensure your extracted folder contains the structure as shown above at the README:
 
 
 ## 📥 Installation & Setup
