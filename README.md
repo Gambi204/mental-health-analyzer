@@ -62,16 +62,30 @@ MentalHealth Detection/
 
 ---
 
+---
+
+## 📦 Download the Full Project as ZIP
+
+Download the entire project directly (including the trained models and all necessary files) , you can get the zipped folder from Google Drive:
+
+👉 **[Download ZIP from Google Drive](https://drive.google.com/file/d/1I4FDODYIL5TWkk15f3NoYy5Bajrbtak9/view?usp=sharing)**
+
+> After downloading:
+> - Extract the folder on your computer.
+> - Open a terminal in the extracted directory.
+> - Follow the setup instructions below (starting with creating a virtual environment and installing dependencies).
+
+⚠️ **Important:** Ensure your extracted folder contains the structure as mentioned shown above at the README:
+
+
 ## 📥 Installation & Setup
 
 Make sure Python 3.10+ is installed.
 
 ```bash
-# Clone the repository
-git clone https://github.com/Gambi204/mental-health-detection.git
-cd mental-health-detection
 
 # Optional: Create and activate virtual environment
+cd mental-health-detection
 python -m venv venv
 source venv/bin/activate  # For Windows use: venv\Scripts\activate
 
