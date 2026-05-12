@@ -1,0 +1,32 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Model directories and weights
+FinalMentalHealthModel_DistilBERT/
+FinalMentalHealthModel_RootCause/
+
+# Pickled files
+*.pkl
+
+# LIME explanation exports
+lime_explanation.html
+
+# Logs and temp files
+*.log
+*.tmp
+
+# Environment and IDE folders
+.env
+.venv
+.envrc
+.vscode/
+.idea/
+.DS_Store
+
+# Gradio cache
+gradio_cached_examples/
